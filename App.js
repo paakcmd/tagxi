@@ -1,10 +1,10 @@
 import React from 'react';
-import { StyleSheet, Text, View, Image } from 'react-native';
+
 import firebase from 'firebase';
 import ReduxThunk from 'redux-thunk';
 import { Provider } from 'react-redux'
 import { createStore, applyMiddleware } from 'redux'
-import reducers from './reducers'
+import reducers from './src/reducers'
 import Router from './Router';
 
 
