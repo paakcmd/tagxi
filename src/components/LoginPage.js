@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 import { StyleSheet, Text, View, Image } from 'react-native';
 
-class LoginForm extends Component {
+class LoginPage extends Component {
     render() {
         return (
             <View>
                 <Text>
-                    Hellod
+                    sadsf
                 </Text>
 
             </View>
@@ -14,4 +14,4 @@ class LoginForm extends Component {
     }
 }
 
-export default LoginForm
+export default LoginPage
